@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leone-Ricardo ,dev júnior .
-- 👀 I’m interested  em aprennder mais sobre progamação e a construir um portfólio robust e consistente.
+- 👀 I’m interested  em aprender mais sobre progamação e a construir um portfólio robust e consistente.
 - 🌱 I’m currently learning linguagem c, javascript,html,css e php.
 - 💞️ I’m looking to collaborate com projetos e outros devs, na tentativa de me aprofundar ainda mais nesse universo de desenvolvimento.
 - 📫 How to reach me , através do meu email leone102009@hotmail.com ou meu instagram "Leone-Ricardo07".
