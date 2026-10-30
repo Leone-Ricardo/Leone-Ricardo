@@ -1,4 +1,4 @@
-# Olá! Sou [Seu Nome] 💻⚡
+# Olá! Sou Leone Ricardo 💻⚡
 
 Sou um Desenvolvedor de Software Fullstack e IoT, com experiência na construção de aplicações web comerciais de ponta a ponta e sistemas de infraestrutura de rede para o mercado de energia. 
 
